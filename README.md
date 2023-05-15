@@ -1,15 +1,12 @@
 # Version3
 Dynamo DB + Webpage + Teraform + Docker
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub; We will use this to document everything that we did in this project. some other resources are: [joshseven](https://github.com/joshseven/Cloud-portfolio), 
 
 What to note down:
 * Did you work with anyone, note that
@@ -17,12 +14,15 @@ What to note down:
 * any challenges you faced and how did you solve them
 
 ### Collaborations
-This is a hand-on cloud engineering project delivered by the azubi africa cloud team in 2023. After 6 months of AWS cloud training and front-end development, we got a chance to work on some realife cloud projects. 
+This is a hand-on cloud engineering project delivered by the azubi africa cloud team in 2023. After 6 months of AWS cloud training, we got a chance to work on some realife cloud projects. 
 I was able to work with:
- 1. William Mukoyani [@their_linkedin](https://www.linkedin.com/in/william-j-mukoyani)
- 2. Esther Awudu [@their_linkedin](https://www.linkedin.com/in/esther-awudu-33690320b/)
- 3. Thelma Laryea [@their_linkedin](https://www.linkedin.com/in/thelma-laryea-73a49b1b4/)
- 4. Sampson Boamah [@their_linkedin](https://www.linkedin.com/in/sampson-boamah-b3629a114/)
+ 1. Teopista Lamaro  
+ 2. Ato Kwansah Sam  
+ 3. Bervelyn Naadu Lartey 
+ 4. Frederick Enaholo 
+ 5. Asiedu Addo Selorm 
+ 6. Louis Fosu Nsowah 
+ 7. Samuel Quayson Nyamedi 
 ##
 ### Project Overview
 ```sh
