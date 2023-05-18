@@ -92,7 +92,7 @@ A dynamo dB is a fully managed NoSQL database service that provides fast and pre
 
 Your Name - [@my_twitter](https://twitter.https://twitter.com/LamaroTeopista) - lteopista@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/topistalamaro/Version3.git)
+Project Link: [@my_repo](https://github.com/topistalamaro/Version3.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
